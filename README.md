@@ -6,3 +6,4 @@ This is a personal repository used for data science learning purpose. Covered le
 * Microsoft - Programming with Python for Data Science
 * UC Berkeley - Foundations of Data Science: Computational Thinking with Python
 
+Add one more sentence for pull request.
